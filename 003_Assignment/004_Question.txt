@@ -1,0 +1,14 @@
+Q4 .Explain why string are immutable in python what happened internally when you modify a string variable
+
+#Solution---------------
+
+    Why are strings immutable in Python?
+    Strings are immutable in Python because once a string object is created, its characters cannot be changed.
+    Simple reasons:
+    Safety – string values should not change accidentally
+    Efficiency – Python can reuse strings in memory
+    Performance – faster operations like hashing and caching
+
+    What does “immutable” mean (easy words)?
+    You cannot change a string after it is created
+    You can create a new string, but you cannot modify the old one

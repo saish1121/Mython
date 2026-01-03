@@ -1,0 +1,67 @@
+Q6 . What is Dictionary in Python? Explain Key-Value Pair Why Key Must Be Immutable? Why Duplicate Key Are Not Allowed?
+
+#Solution------------
+
+    What is a Dictionary in Python?
+
+    A dictionary in Python is a collection that stores data in the form of key–value pairs.
+    Each key is used to identify a value
+    Data is accessed using keys, not index numbers
+    Dictionaries are:
+    Mutable
+    Unordered (logically; insertion order preserved in modern Python)
+
+    Example:
+        student = {
+        "name": "Alice",
+        "age": 21,
+        "course": "Python"
+    }
+
+
+    What is a Key–Value Pair?
+
+    A key–value pair means:
+    key : value
+
+    Example:
+    "name" : "Alice"
+
+    Key → Identifier (like a label)
+    Value → Actual data
+
+    Accessing value:
+    print(student["name"])
+
+
+    Output:
+    Alice
+
+
+    Why must dictionary keys be immutable?
+    Short Answer (Interview):
+    Dictionary keys must be immutable because Python uses hashing to store and retrieve values efficiently.
+
+    Explanation (Step-by-Step)
+    Python dictionaries are implemented using a hash table
+
+    Each key:
+
+    Is passed to a hash function
+    Produces a fixed hash value
+    This hash value decides:
+    Where the key–value pair is stored in memory
+    If a key were mutable:
+    Its value could change
+    Its hash would change
+    Python would lose track of the value
+
+
+    Why are duplicate keys NOT allowed?
+    Short Answer (Interview):
+    Duplicate keys are not allowed because each key must uniquely identify a value in the dictionary.
+    Easy Explanation
+    Dictionary works like a real-life dictionary
+    One word → one meaning
+    If duplicate keys were allowed:
+    Python wouldn’t know which value to return

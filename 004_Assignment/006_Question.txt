@@ -1,0 +1,15 @@
+Q6. Predict the output
+    x = None
+    print(type(x))
+    print(x == False)
+
+#Solution------------
+
+    Output:
+    <class 'NoneType'>
+    False
+
+    Explanation:
+
+    None is not equal to False
+    Both are different objects in memory

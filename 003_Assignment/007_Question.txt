@@ -1,0 +1,18 @@
+Q7. Predict the Output
+
+    d = {1: "One", 1: "ONE", 2: "Two"}
+    print(d)
+
+
+#Solution---------
+
+    Output.    
+    {1: 'ONE', 2: 'Two'}
+
+    Why does this happen?
+    Key points to remember:
+    Dictionary keys must be unique
+    Duplicate keys are not allowed
+    If a duplicate key is given:
+    The latest value overwrites the previous value
+

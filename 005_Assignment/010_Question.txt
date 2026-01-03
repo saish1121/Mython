@@ -1,0 +1,27 @@
+Q10 . How does Python manage memory automatically?
+
+
+#Solution-------
+
+    Python automatically allocates memory when an object is created
+    Python automatically frees memory when an object is no longer needed
+
+This is done using:
+
+    Garbage Collection
+    Reference Counting
+
+Why programmer doesn’t need to free memory?
+
+    Python takes care of memory management internally
+    Programmer focuses only on logic, not memory
+
+Example:
+    a = 10
+    a = 20
+
+
+Memory of 10 is released automatically if not used
+
+
+(Python uses automatic memory management through garbage collection, so programmers do not need to allocate or free memory manually)

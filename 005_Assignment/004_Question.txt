@@ -1,0 +1,22 @@
+Q4. Function that prints a message but does not return anything
+
+#Solution-------
+Example:
+        def show():
+            print("Welcome to Python")
+
+Default return value:
+
+        If a function does not use return, Python returns None
+
+        result = show()
+        print(result)
+
+
+Output:
+
+        Welcome to Python
+        None
+
+
+(A function that does not return anything returns None by default)

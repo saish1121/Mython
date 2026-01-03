@@ -1,0 +1,23 @@
+Q3. Predict the output
+        Code:
+            def fun():
+                x = 10
+                print(x)
+
+            fun()
+            print(x)
+
+#Solution-------
+
+        Output:
+            10
+            Error
+
+Reason:
+
+    x = 10 is inside the function, so it is a local variable
+
+    Local variables work only inside the function
+    print(x) outside the function cannot access it
+    
+    (Variables defined inside a function are local and cannot be accessed outside the function.)

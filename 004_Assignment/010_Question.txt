@@ -1,0 +1,16 @@
+Q10. What is dynamic typing in Python?
+
+
+#Solution---------
+
+    Data type is decided at runtime
+    No need to declare variable type
+
+    x = 10
+    x = "Python"
+
+Why Python is dynamically typed?
+
+    More flexibility
+    Faster development
+    Cleaner code

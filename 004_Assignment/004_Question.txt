@@ -1,0 +1,14 @@
+Q4. Predict the output
+
+    ba = bytearray([65, 66, 67])
+    ba[0] = 97
+    print(ba)
+
+#Solution ------------
+
+Output:
+    bytearray(b'aBC')
+
+Why is this allowed?
+    bytearray is mutable
+    Value 97 → ASCII 'a'

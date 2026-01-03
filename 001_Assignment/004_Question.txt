@@ -1,0 +1,16 @@
+Q. What is purpose og getsizeof()?
+Why is memory size different for different data types?
+
+
+# Solution.......
+The getsizeof() function returns the memory size occupied by an object.
+! getsizeof() function give the memory usage of an datatype,
+! getsizeof() function tells the difference between datatypes.
+
+# Why is memory size different for different data types?
+Memory size differs because each python data types has different internal structure
+a. metadata
+b. overhead
+c. mutability rules
+d. storage strategies
+Which is leading to different memory usage across datatype.

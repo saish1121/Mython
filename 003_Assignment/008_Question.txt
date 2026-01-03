@@ -1,0 +1,22 @@
+Q8. What is the range data type in Python?
+    How is it different from a list of numbers?
+
+#Solution------------
+
+    Range is a built-in data type that represents a sequence of numbers 
+    generated on demand.
+
+    r = range(1, 6)
+    Generates numbers from 1 to 5
+    Does not store all values in memory 
+
+
+    Difference Between range and list
+
+Feature	            range	                          list
+Data type	        Range object	                  List
+Memory usage	    Less (lazy evaluation)	          More (stores all values)
+Mutability	        Immutable	                      Mutable
+Stores values	    No (generates when needed)	      Yes
+Performance	        Faster for iteration	          Slower
+Syntax	            range(1, 6)	[1, 2, 3, 4, 5]

@@ -1,0 +1,44 @@
+Q9. Why is indentation mandatory in Python? What will happen if indentation is not maintained properly? Explain with a small code snippet.
+
+#Solution ----------
+
+    Python is an indentation-specific language because it uses indentation 
+    to define code blocks instead of braces. Indentation is mandatory because 
+    it decides the scope and structure of the program. If indentation is not maintained properly, 
+    Python raises an IndentationError or may produce incorrect logical output
+
+
+        Indentation:
+        • Defines code blocks
+        • Mandatory in Python
+        • Replaces { } braces
+
+        Improper indentation:
+        • Causes IndentationError
+        • Or logical errors
+
+
+
+
+    Indentation in Python (with code)
+    Correct indentation
+    if True:
+        print("Inside if block")
+        print("Still inside if block")
+
+    print("Outside if block")
+
+    Output:
+    Inside if block
+    Still inside if block
+    Outside if block
+
+
+    Lines with the same indentation belong to the same block.
+
+    Missing indentation (Syntax error)
+    if True:
+    print("Hello")
+
+    Error:
+    IndentationError: expected an indented block

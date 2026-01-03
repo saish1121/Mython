@@ -1,0 +1,38 @@
+Q. Explain why input() function always return a string?
+How can you convert it to another datatype?
+
+
+# Solution.....
+Python does not know what type of data we want, when we type something 
+python receives it as text(str)
+
+Example - 
+
+a = input("Enter a number - ")
+print(type(a))
+
+Output - 
+
+str 
+(so 10 is convert it in "10")
+
+
+A...(interger)...
+a = int(input("Enter a number - "))
+
+
+B...(Float)...
+a = float(input("Enter a  number - "))
+
+
+C...(Boolean)...
+a = bool(input("Enter a value")) 
+
+
+D...(List)...
+a = list(input("Enter a list"))
+
+
+
+At last we have to just -
+print(type(any datatype we wnat to check))

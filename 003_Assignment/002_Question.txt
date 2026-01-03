@@ -1,0 +1,46 @@
+Q2. Why tuple is faster than list in which real world scenario would you prefer tuple over list
+
+
+#Solution-----------------
+
+
+    Reason 1: Immutability
+    Tuple is immutable (cannot change after creation)
+    List is mutable (can grow, shrink, change)
+    Because tuples never change:
+    Python does not need extra checks
+    No resizing or reallocation of memory
+    This makes tuple operations faster.
+
+    Reason 2: Memory Allocation
+    Tuple has fixed size
+    List keeps extra memory for future insertions
+
+    Example:
+
+    List over-allocates space
+    Tuple allocates exactly what is needed
+    Less memory = faster access.
+
+    Reason 3: Simpler Internal Structure
+    Tuple has a simpler C-level structure
+
+    List has extra logic for:
+    append
+    insert
+    remove
+    Fewer operations = faster execution.
+
+    Reason 4: Faster Iteration & Access
+    Iterating over a tuple is slightly faster
+    Index access is also faster than list
+    Especially noticeable in large data and loops.
+
+
+    Real-World Scenarios: When to prefer Tuple over List
+    Scenario 1: Fixed data (Should not change)
+    DAYS = ("Mon", "Tue", "Wed", "Thu", "Fri")
+
+
+    Days should not be modified
+    Tuple protects data integrity

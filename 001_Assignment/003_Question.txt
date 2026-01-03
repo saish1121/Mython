@@ -1,0 +1,15 @@
+Q. What does the id() Function return ?
+Is the value returned by id() same for two variables holding the same value?
+
+#Solution....
+id() is same only if both variable reference the same object,
+Because Variable are just lables painting to object.
+Object carry the type information,not variable,
+    
+    x = 5
+    y = 5
+    object knows - 5 is an interger 
+    variable - just lables the object
+
+Object holds the type information and thats the reason 
+it is store on same memory address and return the same value.

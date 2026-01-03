@@ -1,0 +1,13 @@
+Q5 . What is None in Python?
+     Is it same as 0, False, or empty string?
+
+#Solution-----------
+
+None means no value / absence of value
+It is a special object of type NoneType
+
+
+Value	        Same as None?
+0	                No
+False	            No
+""	                No

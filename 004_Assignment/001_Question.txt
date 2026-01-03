@@ -1,0 +1,19 @@
+Q1. What are bytes in Python? Why are they immutable?
+
+#Solution ---------------
+
+    bytes represent a sequence of binary data (0–255)
+
+    Commonly used for:
+    Files
+    Images
+    Network data
+    b = b'ABC'
+
+Why bytes are immutable?
+
+    Once created, byte data cannot be changed
+    Ensures:
+    Data safety
+    Faster processing
+    Consistent behavior in low-level operations

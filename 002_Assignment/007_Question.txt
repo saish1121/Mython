@@ -1,0 +1,17 @@
+Q7 . Explain why Python is considered as platform independent and portable.
+
+
+# Solution ------------
+
+    Python is platform independent because the same source code (.py file) 
+    can run on different operating systems without modification, 
+    provided the appropriate Python interpreter is available on each platform.
+
+
+    Python is portable because Python programs can be transferred and executed across 
+    different platforms with minimal or no changes.
+
+    Portability comes from:
+    Standardized language syntax
+    Same behavior across platforms
+    Interpreter abstraction

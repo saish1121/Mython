@@ -1,0 +1,47 @@
+Q2.What is different Between 
+
+
+# Problem.......
+
+A . 
+
+    a = 10 
+    b = 10
+
+B .
+
+    a = [10]
+    b = [10]
+
+
+# Hint ........
+(Exlpain using Id())
+
+
+# Solution ........
+
+The Id() function returns the memory address of an object,
+That helps to understand how Python Manages Memory and Object reference.
+
+# Difference ......
+
+A .
+
+    a = 10
+    b = 10 
+
+Reuse immutable(Cant change) objects both variables point to the same objest,
+Will store at same memory address.
+(Object is 10 that carry the type information so it will remain at same location)
+
+B .
+
+    a = [ 10 ]
+    b = [ 10 ]
+
+As we can see value is store in form of list,
+List are mutable(Can be change) will allocated separatelly,
+Will store the value at different memory address.
+
+
+

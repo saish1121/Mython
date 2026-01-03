@@ -1,0 +1,17 @@
+Q8 . What are set in python?
+
+#Solution----------
+
+A set is an unordered, mutable collection that stores unique values only.
+No duplicates
+No indexing
+Very fast lookup
+
+s = {10, 20, 30}
+
+Why sets remove duplicates?
+
+Internally uses hashing
+Same value → same hash → stored once
+
+(Sets automatically remove duplicates because they are hash-based)

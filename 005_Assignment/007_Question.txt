@@ -1,0 +1,24 @@
+Q7.  Predict the output
+    Code:
+    a = 5
+    print(type(a))
+    a = 5.5
+    print(type(a))
+
+    a = "Python"
+    print(type(a))
+    
+
+#Solution-----------
+
+    Output:
+    <class 'int'>
+    <class 'float'>
+    <class 'str'>
+
+
+Explanation:
+
+First, a stores an integer, so type is int
+Then a stores a float, so type becomes float
+Then a stores a string, so type becomes str

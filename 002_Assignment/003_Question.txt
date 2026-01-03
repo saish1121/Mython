@@ -1,0 +1,56 @@
+Q3. What is a byte code in Python?
+    Where it is stored and why does Python use it?
+
+
+# Solution ---------------
+
+    In Python, the compiler is present inside the interpreter. 
+    The compiler converts the human-readable source code (.py file) into bytecode, 
+    which is understandable by the Python Virtual Machine (PVM). 
+    The PVM then executes this bytecode to produce the output.
+
+                            .py (Human readable code)
+                                        ↓
+                                Python Compiler
+                                        ↓
+                                Bytecode (.pyc)
+                                        ↓
+                                Python Virtual Machine (PVM)
+                                        ↓
+                                Output
+
+    ----------------------------------
+
+    Python bytecode is stored in a .pyc file inside the __pycache__ directory.
+
+
+    Python:
+
+    Compiles example.py into bytecode
+    Saves it as a .pyc file
+
+
+    -----------------------------------
+
+    Python uses bytecode to make program execution faster and platform-independent.
+
+    Reason 1: Faster Execution 
+    First time:
+    .py → bytecode (takes time)
+    Next time:
+    Python directly loads .pyc
+    Skips compilation
+    This reduces startup time
+    Reason 2: Platform Independent 
+    Bytecode is same on all OS
+    PVM converts bytecode → machine code
+    Same .pyc can run on:
+    Windows    
+    Linux
+    macOS    
+    (as long as Python version matches)
+    Reason 3: Easier for PVM to Understand
+    PVM does not understand Python syntax
+    It understands bytecode instructions only
+
+

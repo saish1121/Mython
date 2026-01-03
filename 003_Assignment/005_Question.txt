@@ -1,0 +1,28 @@
+Q5 . Predict The Output..........
+
+    S = "python" Print(id(s)) 
+    S= s+ "3" Print(id(s)) 
+    Explain the reason for change / no change in id()
+
+#Solution--------------
+
+    Output:
+    140245678912304
+    140245678913456
+
+
+    s = "python"
+    s = s + "3"
+
+    What actually happens internally:
+
+    Python does not change "python"
+    A new string "python3" is created
+    s is updated to point to the new object
+    Old "python" remains unchanged in memory
+
+    Before:
+    s ──► "python"
+
+    After:
+    s ──► "python3"

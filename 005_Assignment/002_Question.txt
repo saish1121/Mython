@@ -1,0 +1,22 @@
+Q2 . Difference between function with parameters and without parameters?
+
+#Solution----------
+
+Function with parameters
+
+        Takes values from outside
+        Works on given input
+            def add(a, b):
+                print(a + b)
+
+
+             (Here a and b are parameters)
+
+Function without parameters
+
+        Does not take input
+
+        Uses fixed values inside the function
+
+            def greet():
+                print("Hello")

@@ -1,0 +1,13 @@
+Q9. Predict the output
+    s = {10, 20, 30, 10, 20}
+    print(s)
+
+#Solution---------
+
+    Output:
+    {10, 20, 30}
+
+Why are some values missing?
+
+Sets do not allow duplicates
+Duplicate values are automatically removed

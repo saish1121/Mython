@@ -1,0 +1,20 @@
+Q8 . What do you understand by indentation specific language? 
+
+#Solution -----------
+
+    An indentation-specific language is a language where indentation (spaces or tabs at the beginning of a line) is used to define the structure and blocks of code.
+
+    In such languages:
+    Indentation decides which statements belong together
+    There are no curly braces { } to define blocks
+    Python is an indentation-specific language
+
+
+
+            if True:
+            print("Inside if block")
+            print("Still inside if block")
+
+        print("Outside if block")
+        
+        (Lines with same indentation belong to the same block.)

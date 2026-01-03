@@ -1,0 +1,10 @@
+Q3. Difference between bytes and bytearray 
+
+#solution-----------
+
+
+Feature	            bytes	        bytearray
+Mutability	        Immutable   	Mutable
+Change allowed	    ❌ No           ✅ Yes
+Performance	        Faster	        Slightly slower
+Use case	Fixed binary data   	Editable binary data

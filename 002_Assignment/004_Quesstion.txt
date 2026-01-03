@@ -1,0 +1,17 @@
+Q4. Python is compile language or interpreter Langauge?
+
+    Python is an interpreted language, but internally it uses a compiler. 
+    The Python compiler first compiles the entire source code into bytecode. 
+    This bytecode is then executed instruction by instruction by the Python Virtual Machine (PVM), 
+    which is part of the interpreter.
+
+
+                        Source Code (.py)
+                                ↓
+                        Python Compiler
+                                ↓
+                        Bytecode (.pyc)
+                                ↓
+                        Python Virtual Machine (PVM)
+                                ↓
+                        Execution (instruction by instruction)

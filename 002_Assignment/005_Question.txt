@@ -1,0 +1,9 @@
+Q5 . What is the purpose of __pycache__ Folder ?
+
+
+#Solution ---------
+    The main purpose of the __pycache__ folder is to store compiled bytecode (.pyc files)
+    so that Python can reuse it in future executions and avoid recompiling the source code. 
+    The Python Virtual Machine executes bytecode instruction by instruction, 
+    whether it is loaded from memory or from the __pycache__ folder. 
+    

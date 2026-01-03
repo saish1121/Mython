@@ -1,0 +1,29 @@
+Q6 .Python is called a dynamic type language. 
+    Explain this with a short code explanation.
+
+#Solution-------------
+
+    Python is a dynamically typed language because variable types are decided at runtime, 
+    and the same variable can hold values of different data types during execution without 
+    explicit type declaration.
+
+
+                    Input:
+                        x = 5        # x refers to an integer
+                            print(type(x))
+
+                        x = "Hello" # x now refers to a string
+                            print(type(x))
+
+
+                    Output:
+                        <class 'int'>
+                        <class 'str'>
+
+
+    Dynamic vs Static (One Line)
+            int x = 5;    // static typing (C)
+            x = "Hi";    // error
+
+            x = 5
+            x = "Hi"     # valid (dynamic typing)

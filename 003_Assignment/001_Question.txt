@@ -1,0 +1,85 @@
+Q1. What is the difference between list and tuple in Python? 
+    Explain in terms of mutability, memory, performance, and use case.
+
+#Solution-------
+
+        Feature	        List	            Tuple
+
+        Mutability	    Mutable	            Immutable
+        Memory	        More	            Less
+        Performance	    Slower          	Faster
+        Syntax	        [ ]	                ( )
+        Use Case	    Dynamic data	    Fixed data
+
+
+    List(Mutable)
+    Elements can be changed, added, or removed
+
+            Input:
+                lst = [1, 2, 3]
+                lst[0] = 10
+                print(lst)
+
+
+            Output:            
+                [10, 2, 3]
+
+    Tuple(Immutable)
+    Elements cannot be changed after creation
+
+            Input:
+                tup = (1, 2, 3)
+                tup[0] = 10   # Error
+
+
+            Error:
+                TypeError: 'tuple' object does not support item assignment
+
+
+    Memory Usage
+    Tuple uses less memory than list
+    Reason:
+    Tuple is immutable → no extra space for resizing
+    List keeps extra memory for add/remove operations
+    Example (conceptual):
+    List  → more memory
+    Tuple → less memory
+    Tuple is more memory-efficient.
+
+    Performance (Speed)
+    Tuple is faster than list
+    Reason:
+    Fixed size
+    No dynamic changes
+    Faster iteration and access
+    Especially noticeable in:
+    Iteration
+
+    Use Case (When to use what?)
+    Use List when:
+    Data needs to be modified
+    Size changes frequently
+    Example:
+            shopping_cart = ["apple", "banana"]
+            shopping_cart.append("orange")
+
+    Use Tuple when:
+    Data should be constant
+    No modification required
+    Used as dictionary keys
+
+    Example:
+            coordinates = (10, 20)
+            days=(mon,tue,wed,thur,fri,sat)
+
+
+
+
+                        Tuple	                                                                       List
+Immutable – once created, elements cannot be changed	                            Mutable – elements can be changed, added, or removed
+Uses less memory because size is fixed	                                            Uses more memory to support dynamic resizing
+Faster in execution and iteration	                                                Slower compared to tuple
+Written using ( ) parentheses	                                                    Written using [ ] square brackets
+Suitable for fixed / constant data	                                                Suitable for dynamic / changeable data
+Can be used as dictionary keys	                                                    Cannot be used as dictionary keys
+Safer for data that should not be modified	                                        Better when frequent updates are required

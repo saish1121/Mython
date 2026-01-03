@@ -1,0 +1,21 @@
+Q9 . Difference between
+        x = 10
+        x = "Ten"
+
+Is this allowed?
+
+#Solution--------
+
+    Yes, it is allowed
+
+Why?
+
+    Python allows changing the data type of a variable
+    The variable x first stores an integer
+    Then it stores a string
+
+Important word:
+    (Dynamic typing)
+
+
+(In Python, the same variable can hold different data types because Python is dynamically typed.)

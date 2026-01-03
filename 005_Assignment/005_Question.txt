@@ -1,0 +1,24 @@
+Q5. Difference between print() and return
+
+
+#Solution------
+    print() 
+
+        Displays output on the screen
+        Does not send value back
+
+    return
+
+    Sends value back to the caller
+    Ends the function
+
+    Example:
+    def test():
+        print("Hello")
+        return 10
+
+
+    print() → shows message
+    return → sends value 10
+
+    (print() is used for display, while return is used to send value from a function.)

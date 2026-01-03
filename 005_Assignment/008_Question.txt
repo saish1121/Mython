@@ -1,0 +1,23 @@
+Q8. Why does this code work without declaration?
+
+            Code:
+            x = 100
+
+
+#Solution---------
+
+    In Python, no need to declare variable type
+    Python automatically decides the data type at runtime
+    Here x becomes an integer automatically
+
+Compare with C / Java:
+
+    C / Java
+    int x = 100;
+
+
+    Python
+    x = 100
+
+
+(Python does not require variable declaration because it is dynamically typed.)

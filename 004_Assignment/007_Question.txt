@@ -1,0 +1,16 @@
+Q7 . What is Boolean data type in Python?
+
+#Solution-----------
+
+    Boolean represents truth values:
+    True
+    False
+
+    (Python internally treats some values as False in conditions)
+
+
+    Falsy Values
+    None, 0, 0.0, "", [], (), {}, set(), False
+
+
+    (Any empty or zero value is considered False in Python)
