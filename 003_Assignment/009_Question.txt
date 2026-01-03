@@ -1,0 +1,21 @@
+Q9 . Predict the output
+r = range(5)
+print(r)
+print(list(r))
+
+#Solution--------
+
+    Output:
+        range(0, 5)
+        [0, 1, 2, 3, 4]
+
+    Explanation:
+    range(5) does not create numbers immediately
+    It only creates a range object
+    That’s why print(r) shows:
+
+    range(0, 5)
+
+    When we use list(r):
+    Python generates all numbers
+    Converts them into a list
