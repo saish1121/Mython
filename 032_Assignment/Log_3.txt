@@ -1,0 +1,12 @@
+--------------------------------------------------
+..............Marvellous Automation..............
+--------------------------------------------------
+This is script to Detect Duplicate Files in Directory
+--------------------------------------------------
+--------------------------------------------------
+Total Duplicate File Scanned - 6
+Duplicate Files - ['Demo\\Sun copy 3.txt', 'Demo\\Sun copy 4.txt', 'Demo\\Command_Line\\001_Command_Line3 copy.py', 'Demo\\Command_Line\\001_Command_Line3.py', 'Demo\\Schedular\\002_Scheddular3 copy 3.py', 'Demo\\Schedular\\002_Scheddular3 copy.py']
+This log file is created at : Thu Feb  5 15:44:51 2026
+--------------------------------------------------
+..............Marvellous Automation..............
+--------------------------------------------------
