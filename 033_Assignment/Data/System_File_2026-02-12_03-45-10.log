@@ -1,0 +1,2373 @@
+---- Paltfrom Surveillance System -----Process Name : System Idle Process
+PID          : 0
+No Of Threads: 48
+CPU Percent  : 1242.9
+Ram Percent  : 4.856855123168632e-05
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 1
+Process Name : System
+PID          : 4
+No Of Threads: 439
+CPU Percent  : 34.5
+Ram Percent  : 0.039486232151360975
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 2
+Process Name : Registry
+PID          : 272
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.36159286391990464
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 3
+Process Name : msedgewebview2.exe
+PID          : 428
+No Of Threads: 20
+CPU Percent  : 0.0
+Ram Percent  : 0.07552409716527222
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 4
+Process Name : smss.exe
+PID          : 884
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.004006905476614121
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 5
+Process Name : svchost.exe
+PID          : 904
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.02746551572151861
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 6
+Process Name : csrss.exe
+PID          : 1184
+No Of Threads: 17
+CPU Percent  : 0.0
+Ram Percent  : 0.020568781446619156
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 7
+Process Name : wininit.exe
+PID          : 1292
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.01100077685397695
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 8
+Process Name : services.exe
+PID          : 1428
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.056290950877524434
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 9
+Process Name : lsass.exe
+PID          : 1440
+No Of Threads: 13
+CPU Percent  : 1.1
+Ram Percent  : 0.12948375758367572
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 10
+Process Name : svchost.exe
+PID          : 1464
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.03647498197499642
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 11
+Process Name : svchost.exe
+PID          : 1492
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.021661573849332098
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 12
+Process Name : svchost.exe
+PID          : 1600
+No Of Threads: 28
+CPU Percent  : 0.0
+Ram Percent  : 0.20629492135658764
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 13
+Process Name : WUDFHost.exe
+PID          : 1632
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.018164638160650684
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 14
+Process Name : fontdrvhost.exe
+PID          : 1648
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.0061196374551924755
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 15
+Process Name : svchost.exe
+PID          : 1772
+No Of Threads: 12
+CPU Percent  : 7.0
+Ram Percent  : 0.14993111765221567
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 16
+Process Name : DCv2.exe
+PID          : 1784
+No Of Threads: 9
+CPU Percent  : 2.7
+Ram Percent  : 0.2011952234772606
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 17
+Process Name : svchost.exe
+PID          : 1824
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.03283234063261995
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 18
+Process Name : WUDFHost.exe
+PID          : 1892
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.013744899998567229
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 19
+Process Name : msedgewebview2.exe
+PID          : 1936
+No Of Threads: 23
+CPU Percent  : 0.0
+Ram Percent  : 0.10417954239196715
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 20
+Process Name : IntelCpHDCPSvc.exe
+PID          : 2068
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.008985181977861969
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 21
+Process Name : svchost.exe
+PID          : 2100
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.020398791517308255
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 22
+Process Name : svchost.exe
+PID          : 2172
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.06338195935735064
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 23
+Process Name : svchost.exe
+PID          : 2228
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.060273572078522714
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 24
+Process Name : svchost.exe
+PID          : 2320
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.02328862031559359
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 25
+Process Name : svchost.exe
+PID          : 2336
+No Of Threads: 19
+CPU Percent  : 0.0
+Ram Percent  : 0.09883700175648165
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 26
+Process Name : svchost.exe
+PID          : 2404
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.02321576748874606
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 27
+Process Name : svchost.exe
+PID          : 2452
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.0610506688982297
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 28
+Process Name : taskhostw.exe
+PID          : 2476
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.08941470281753451
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 29
+Process Name : igfxCUIServiceN.exe
+PID          : 2496
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.023167198937514375
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 30
+Process Name : svchost.exe
+PID          : 2532
+No Of Threads: 9
+CPU Percent  : 1.5
+Ram Percent  : 0.05799085017063346
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 31
+Process Name : utorrentie.exe
+PID          : 2580
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.03853914540234309
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 32
+Process Name : NVDisplay.Container.exe
+PID          : 2716
+No Of Threads: 36
+CPU Percent  : 0.0
+Ram Percent  : 0.09123602348872274
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 33
+Process Name : svchost.exe
+PID          : 2724
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.016780434450547624
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 34
+Process Name : svchost.exe
+PID          : 2864
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.04104042579077494
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 35
+Process Name : MemCompression
+PID          : 2896
+No Of Threads: 54
+CPU Percent  : 0.0
+Ram Percent  : 2.747231531869105
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 36
+Process Name : svchost.exe
+PID          : 2928
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.0954857717214953
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 37
+Process Name : svchost.exe
+PID          : 2956
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.049005668192771495
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 38
+Process Name : svchost.exe
+PID          : 2964
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.0115350309175255
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 39
+Process Name : wsc_proxy.exe
+PID          : 2976
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.0285825923998474
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 40
+Process Name : msedgewebview2.exe
+PID          : 3012
+No Of Threads: 56
+CPU Percent  : 0.0
+Ram Percent  : 0.11989146871541768
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 41
+Process Name : svchost.exe
+PID          : 3132
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.08565064009707882
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 42
+Process Name : svchost.exe
+PID          : 3204
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.0262755862163423
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 43
+Process Name : svchost.exe
+PID          : 3212
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.023580031622983708
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 44
+Process Name : Code.exe
+PID          : 3244
+No Of Threads: 25
+CPU Percent  : 0.0
+Ram Percent  : 0.2777392602183982
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 45
+Process Name : svchost.exe
+PID          : 3292
+No Of Threads: 10
+CPU Percent  : 0.5
+Ram Percent  : 0.06522756430415472
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 46
+Process Name : svchost.exe
+PID          : 3324
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.018893166429125977
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 47
+Process Name : svchost.exe
+PID          : 3376
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.03035534451980395
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 48
+Process Name : svchost.exe
+PID          : 3384
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.025037088159934297
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 49
+Process Name : svchost.exe
+PID          : 3492
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.030695324378425752
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 50
+Process Name : svchost.exe
+PID          : 3504
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.1711555745404626
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 51
+Process Name : svchost.exe
+PID          : 3520
+No Of Threads: 6
+CPU Percent  : 4.0
+Ram Percent  : 0.23961294750152445
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 52
+Process Name : dllhost.exe
+PID          : 3540
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.020593065722234998
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 53
+Process Name : svchost.exe
+PID          : 3644
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.036863530384849914
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 54
+Process Name : msedgewebview2.exe
+PID          : 3784
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.02360431589859955
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 55
+Process Name : svchost.exe
+PID          : 3800
+No Of Threads: 16
+CPU Percent  : 0.0
+Ram Percent  : 0.08669486394856007
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 56
+Process Name : VoiceControlEngine.exe
+PID          : 3808
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.02950539487324944
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 57
+Process Name : svchost.exe
+PID          : 3832
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.027028398760433437
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 58
+Process Name : NortonSvc.exe
+PID          : 3852
+No Of Threads: 153
+CPU Percent  : 0.0
+Ram Percent  : 0.42514481320656616
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 59
+Process Name : svchost.exe
+PID          : 3868
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.01668329734808425
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 60
+Process Name : svchost.exe
+PID          : 3916
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.03433796572080223
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 61
+Process Name : nllToolsSvc.exe
+PID          : 4312
+No Of Threads: 46
+CPU Percent  : 0.4
+Ram Percent  : 0.3387899291166279
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 62
+Process Name : spoolsv.exe
+PID          : 4384
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.03416797579149132
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 63
+Process Name : svchost.exe
+PID          : 4412
+No Of Threads: 23
+CPU Percent  : 0.0
+Ram Percent  : 0.12358267860902585
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 64
+Process Name : conhost.exe
+PID          : 4424
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.06379479204281997
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 65
+Process Name : svchost.exe
+PID          : 4472
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.021880132329874687
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 66
+Process Name : RuntimeBroker.exe
+PID          : 4568
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.02360431589859955
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 67
+Process Name : svchost.exe
+PID          : 4668
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.021807279503027154
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 68
+Process Name : msedgewebview2.exe
+PID          : 4760
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.03324517331808928
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 69
+Process Name : svchost.exe
+PID          : 4848
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.007965242401996555
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 70
+Process Name : chrome.exe
+PID          : 4892
+No Of Threads: 79
+CPU Percent  : 58.4
+Ram Percent  : 3.1775488957818454
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 71
+Process Name : svchost.exe
+PID          : 4908
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.030015364661182143
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 72
+Process Name : svchost.exe
+PID          : 4948
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.03441081854764976
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 73
+Process Name : msedge.exe
+PID          : 5080
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.14917830510812452
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 74
+Process Name : aswEngSrv.exe
+PID          : 5112
+No Of Threads: 43
+CPU Percent  : 0.0
+Ram Percent  : 0.09143029769364949
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 75
+Process Name : msedgewebview2.exe
+PID          : 5212
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.0496856279100151
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 76
+Process Name : svchost.exe
+PID          : 5220
+No Of Threads: 21
+CPU Percent  : 2.4
+Ram Percent  : 0.17287975810918746
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 77
+Process Name : taskhostw.exe
+PID          : 5420
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.06364908638912492
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 78
+Process Name : svchost.exe
+PID          : 5808
+No Of Threads: 11
+CPU Percent  : 4.4
+Ram Percent  : 0.1517524383234039
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 79
+Process Name : svchost.exe
+PID          : 5856
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.04820428709744867
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 80
+Process Name : svchost.exe
+PID          : 5900
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.03817488126810545
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 81
+Process Name : svchost.exe
+PID          : 6032
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.02836403391930481
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 82
+Process Name : WMIRegistrationService.exe
+PID          : 6216
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.01359919434487217
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 83
+Process Name : wlanext.exe
+PID          : 6268
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.013283498761866208
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 84
+Process Name : dwm.exe
+PID          : 6276
+No Of Threads: 19
+CPU Percent  : 23.8
+Ram Percent  : 0.8890716145716339
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 85
+Process Name : afwServ.exe
+PID          : 6312
+No Of Threads: 41
+CPU Percent  : 0.0
+Ram Percent  : 0.10437381659689389
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 86
+Process Name : chrome.exe
+PID          : 6420
+No Of Threads: 26
+CPU Percent  : 14.7
+Ram Percent  : 1.3561068032155295
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 87
+Process Name : WmiPrvSE.exe
+PID          : 6448
+No Of Threads: 12
+CPU Percent  : 1.2
+Ram Percent  : 0.16848430422271984
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 88
+Process Name : msedgewebview2.exe
+PID          : 6612
+No Of Threads: 28
+CPU Percent  : 0.0
+Ram Percent  : 0.18111212754295827
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 89
+Process Name : svchost.exe
+PID          : 6804
+No Of Threads: 18
+CPU Percent  : 0.0
+Ram Percent  : 0.21591149450046151
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 90
+Process Name : svchost.exe
+PID          : 6828
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.021127319785783548
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 91
+Process Name : svchost.exe
+PID          : 6836
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.03096245141020003
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 92
+Process Name : svchost.exe
+PID          : 6844
+No Of Threads: 14
+CPU Percent  : 0.4
+Ram Percent  : 0.23701453001062925
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 93
+Process Name : svchost.exe
+PID          : 6852
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.0075524097165272225
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 94
+Process Name : OneApp.IGCC.WinService.exe
+PID          : 6864
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.07600978267758908
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 95
+Process Name : NahimicService.exe
+PID          : 6872
+No Of Threads: 26
+CPU Percent  : 0.0
+Ram Percent  : 0.10723936111956339
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 96
+Process Name : svchost.exe
+PID          : 6888
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.011729305122452245
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 97
+Process Name : MSIAPService.exe
+PID          : 6896
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.037009236038544974
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 98
+Process Name : PnkBstrA.exe
+PID          : 6912
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.01075793409781852
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 99
+Process Name : jhi_service.exe
+PID          : 6920
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.008596633568008478
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 100
+Process Name : MSI_Central_Service.exe
+PID          : 6928
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.01806750105818731
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 101
+Process Name : svchost.exe
+PID          : 6936
+No Of Threads: 8
+CPU Percent  : 0.4
+Ram Percent  : 0.061439217308083195
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 102
+Process Name : RemoteMouseService.exe
+PID          : 6948
+No Of Threads: 4
+CPU Percent  : 1.1
+Ram Percent  : 0.06857879433914107
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 103
+Process Name : MSIService.exe
+PID          : 6956
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.012045000705458208
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 104
+Process Name : Lavasoft.WCAssistant.WinService.exe
+PID          : 6964
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.06275056819133872
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 105
+Process Name : MuseAuthService.exe
+PID          : 6976
+No Of Threads: 23
+CPU Percent  : 0.7
+Ram Percent  : 0.05760230176077997
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 106
+Process Name : nvcontainer.exe
+PID          : 6984
+No Of Threads: 29
+CPU Percent  : 0.0
+Ram Percent  : 0.05918077967580977
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 107
+Process Name : Mystic_Light_Service.exe
+PID          : 6996
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.031108157063895085
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 108
+Process Name : VoiceControl_Service.exe
+PID          : 7012
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.022948640456971786
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 109
+Process Name : PhoneExperienceHost.exe
+PID          : 7024
+No Of Threads: 17
+CPU Percent  : 0.0
+Ram Percent  : 0.35362762151790805
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 110
+Process Name : LightKeeperService.exe
+PID          : 7028
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.028436886746152336
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 111
+Process Name : IntelAudioService.exe
+PID          : 7036
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.02467282402569665
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 112
+Process Name : esif_uf.exe
+PID          : 7044
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.009665141695105578
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 113
+Process Name : Sendevsvc.exe
+PID          : 7052
+No Of Threads: 18
+CPU Percent  : 0.0
+Ram Percent  : 0.13052798143515698
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 114
+Process Name : SafeExamBrowser.Service.exe
+PID          : 7128
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.02030165441484488
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 115
+Process Name : RtkAudUService64.exe
+PID          : 7156
+No Of Threads: 15
+CPU Percent  : 0.0
+Ram Percent  : 0.02697983020920175
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 116
+Process Name : CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.exe
+PID          : 7192
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.01976740035129633
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 117
+Process Name : svchost.exe
+PID          : 7232
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.09820561059046974
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 118
+Process Name : svchost.exe
+PID          : 7236
+No Of Threads: 8
+CPU Percent  : 5.2
+Ram Percent  : 0.12678820299031712
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 119
+Process Name : msedgewebview2.exe
+PID          : 7336
+No Of Threads: 23
+CPU Percent  : 0.0
+Ram Percent  : 0.06452332031129528
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 120
+Process Name : Nahimic3.exe
+PID          : 7432
+No Of Threads: 17
+CPU Percent  : 0.0
+Ram Percent  : 0.008645202119240164
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 121
+Process Name : svchost.exe
+PID          : 7452
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.017266119962864486
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 122
+Process Name : gamingservicesnet.exe
+PID          : 7796
+No Of Threads: 38
+CPU Percent  : 0.0
+Ram Percent  : 0.013283498761866208
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 123
+Process Name : svchost.exe
+PID          : 8284
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.011850726500531462
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 124
+Process Name : OneDrive.Sync.Service.exe
+PID          : 8520
+No Of Threads: 17
+CPU Percent  : 0.0
+Ram Percent  : 0.0601521507004435
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 125
+Process Name : chrome.exe
+PID          : 8528
+No Of Threads: 38
+CPU Percent  : 1.4
+Ram Percent  : 2.1791980409389176
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 126
+Process Name : msedgewebview2.exe
+PID          : 8768
+No Of Threads: 30
+CPU Percent  : 0.0
+Ram Percent  : 0.013866321376646444
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 127
+Process Name : conhost.exe
+PID          : 8988
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.02151586819563704
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 128
+Process Name : msedgewebview2.exe
+PID          : 9052
+No Of Threads: 60
+CPU Percent  : 0.3
+Ram Percent  : 0.539596604184035
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 129
+Process Name : svchost.exe
+PID          : 9128
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.014886260952511856
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 130
+Process Name : msedgewebview2.exe
+PID          : 9320
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.05915649540019394
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 131
+Process Name : csrss.exe
+PID          : 9440
+No Of Threads: 15
+CPU Percent  : 0.3
+Ram Percent  : 0.027222672965360177
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 132
+Process Name : chrome.exe
+PID          : 9492
+No Of Threads: 28
+CPU Percent  : 0.0
+Ram Percent  : 0.618399078557446
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 133
+Process Name : MSI.CentralServer.exe
+PID          : 9564
+No Of Threads: 13
+CPU Percent  : 0.0
+Ram Percent  : 0.42869031744647934
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 134
+Process Name : chrome.exe
+PID          : 9572
+No Of Threads: 36
+CPU Percent  : 0.0
+Ram Percent  : 0.773235619884062
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 135
+Process Name : conhost.exe
+PID          : 9736
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.009640857419489734
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 136
+Process Name : WmiPrvSE.exe
+PID          : 9772
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.11768159963437595
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 137
+Process Name : svchost.exe
+PID          : 9884
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.007892389575149027
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 138
+Process Name : svchost.exe
+PID          : 9888
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.020325938690460725
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 139
+Process Name : AggregatorHost.exe
+PID          : 10164
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.047621464482668435
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 140
+Process Name : conhost.exe
+PID          : 10316
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.01991310600499139
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 141
+Process Name : NisSrv.exe
+PID          : 10352
+No Of Threads: 16
+CPU Percent  : 0.3
+Ram Percent  : 0.056995194870383896
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 142
+Process Name : svchost.exe
+PID          : 10384
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.12151851518167917
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 143
+Process Name : LinkedIn.exe
+PID          : 10624
+No Of Threads: 21
+CPU Percent  : 0.0
+Ram Percent  : 0.32011532116804453
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 144
+Process Name : CrossDeviceResume.exe
+PID          : 10752
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.10796788938803867
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 145
+Process Name : ShellHost.exe
+PID          : 10840
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.10784646800995946
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 146
+Process Name : Code.exe
+PID          : 10848
+No Of Threads: 17
+CPU Percent  : 0.0
+Ram Percent  : 3.2998202235076155
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 147
+Process Name : utorrentie.exe
+PID          : 10960
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.036717824731154855
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 148
+Process Name : PresentationFontCache.exe
+PID          : 11016
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.018407480916809115
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 149
+Process Name : RuntimeBroker.exe
+PID          : 11092
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.023555747347367866
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 150
+Process Name : SystemSettings.exe
+PID          : 11164
+No Of Threads: 47
+CPU Percent  : 0.0
+Ram Percent  : 0.006411048762582594
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 151
+Process Name : chrome.exe
+PID          : 11308
+No Of Threads: 41
+CPU Percent  : 0.6
+Ram Percent  : 2.220918426446936
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 152
+Process Name : svchost.exe
+PID          : 11372
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.08931756571507114
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 153
+Process Name : OpenConsole.exe
+PID          : 11524
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.031205294166358456
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 154
+Process Name : svchost.exe
+PID          : 11612
+No Of Threads: 14
+CPU Percent  : 0.0
+Ram Percent  : 0.13247072348442443
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 155
+Process Name : CrossDeviceService.exe
+PID          : 12012
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.2152315347832179
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 156
+Process Name : NahimicAPO4Volume.exe
+PID          : 12024
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.015371946464828718
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 157
+Process Name : msedgewebview2.exe
+PID          : 12096
+No Of Threads: 20
+CPU Percent  : 0.0
+Ram Percent  : 0.03722779451908756
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 158
+Process Name : msedge.exe
+PID          : 12120
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.092280247340204
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 159
+Process Name : svchost.exe
+PID          : 12128
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.016901855828626838
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 160
+Process Name : explorer.exe
+PID          : 12236
+No Of Threads: 119
+CPU Percent  : 1.9
+Ram Percent  : 2.877565239099335
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 161
+Process Name : nvcontainer.exe
+PID          : 12268
+No Of Threads: 17
+CPU Percent  : 0.0
+Ram Percent  : 0.08021096235912996
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 162
+Process Name : Code.exe
+PID          : 12308
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.43966681002484037
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 163
+Process Name : msedgewebview2.exe
+PID          : 12500
+No Of Threads: 22
+CPU Percent  : 0.0
+Ram Percent  : 0.020277370139229037
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 164
+Process Name : BraveCrashHandler64.exe
+PID          : 12640
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.0063381959357350645
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 165
+Process Name : StartMenuExperienceHost.exe
+PID          : 12668
+No Of Threads: 18
+CPU Percent  : 0.0
+Ram Percent  : 0.5878737441083312
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 166
+Process Name : msedgewebview2.exe
+PID          : 12740
+No Of Threads: 23
+CPU Percent  : 0.0
+Ram Percent  : 0.44224094324011975
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 167
+Process Name : chrome.exe
+PID          : 12768
+No Of Threads: 24
+CPU Percent  : 0.0
+Ram Percent  : 0.21265740156793853
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 168
+Process Name : chrome.exe
+PID          : 12800
+No Of Threads: 32
+CPU Percent  : 0.0
+Ram Percent  : 1.040022671799715
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 169
+Process Name : nvcontainer.exe
+PID          : 12896
+No Of Threads: 61
+CPU Percent  : 0.0
+Ram Percent  : 0.24437266552222972
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 170
+Process Name : svchost.exe
+PID          : 13124
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.10233393744516307
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 171
+Process Name : AppleMobileDeviceProcess.exe
+PID          : 13168
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.029311120668322692
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 172
+Process Name : svchost.exe
+PID          : 13224
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.05694662631915221
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 173
+Process Name : ONENOTEM.EXE
+PID          : 13320
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.021248741163862765
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 174
+Process Name : NortonUI.exe
+PID          : 13424
+No Of Threads: 18
+CPU Percent  : 0.0
+Ram Percent  : 0.0789481800271061
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 175
+Process Name : NortonUI.exe
+PID          : 13436
+No Of Threads: 19
+CPU Percent  : 0.0
+Ram Percent  : 0.08166801889608054
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 176
+Process Name : NVDisplay.Container.exe
+PID          : 13472
+No Of Threads: 28
+CPU Percent  : 0.0
+Ram Percent  : 0.09941982437126189
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 177
+Process Name : svchost.exe
+PID          : 13536
+No Of Threads: 13
+CPU Percent  : 0.0
+Ram Percent  : 0.16214610828698478
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 178
+Process Name : msedgewebview2.exe
+PID          : 13712
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.019888821729375547
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 179
+Process Name : RuntimeBroker.exe
+PID          : 13812
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.0874962450438829
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 180
+Process Name : msedgewebview2.exe
+PID          : 13832
+No Of Threads: 15
+CPU Percent  : 0.0
+Ram Percent  : 0.05568384398712836
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 181
+Process Name : svchost.exe
+PID          : 13968
+No Of Threads: 25
+CPU Percent  : 0.0
+Ram Percent  : 0.20641634273466683
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 182
+Process Name : chrome.exe
+PID          : 14140
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.07688401659975944
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 183
+Process Name : winlogon.exe
+PID          : 14304
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.031350999820053516
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 184
+Process Name : SearchHost.exe
+PID          : 14652
+No Of Threads: 25
+CPU Percent  : 0.0
+Ram Percent  : 0.42082221214694604
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 185
+Process Name : fontdrvhost.exe
+PID          : 15040
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.0161490432845357
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 186
+Process Name : sihost.exe
+PID          : 15340
+No Of Threads: 16
+CPU Percent  : 0.0
+Ram Percent  : 0.2009523807211021
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 187
+Process Name : RuntimeBroker.exe
+PID          : 15528
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.059545043810047424
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 188
+Process Name : svchost.exe
+PID          : 15664
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.10473808073113153
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 189
+Process Name : NahimicSvc64.exe
+PID          : 15752
+No Of Threads: 22
+CPU Percent  : 0.0
+Ram Percent  : 0.04674723056049808
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 190
+Process Name : Code.exe
+PID          : 15784
+No Of Threads: 49
+CPU Percent  : 0.3
+Ram Percent  : 0.7426617168837155
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 191
+Process Name : msedgewebview2.exe
+PID          : 15844
+No Of Threads: 32
+CPU Percent  : 0.0
+Ram Percent  : 1.42077582918052
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 192
+Process Name : NVIDIA Overlay.exe
+PID          : 15892
+No Of Threads: 19
+CPU Percent  : 0.0
+Ram Percent  : 0.09643285847051318
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 193
+Process Name : WidgetService.exe
+PID          : 15976
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.057456596107084916
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 194
+Process Name : msedgewebview2.exe
+PID          : 16088
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.01075793409781852
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 195
+Process Name : AppActions.exe
+PID          : 16116
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.09708853391214095
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 196
+Process Name : audiodg.exe
+PID          : 16164
+No Of Threads: 18
+CPU Percent  : 13.2
+Ram Percent  : 0.16083475740372924
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 197
+Process Name : chrome.exe
+PID          : 16272
+No Of Threads: 14
+CPU Percent  : 0.0
+Ram Percent  : 0.3702866345903765
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 198
+Process Name : RuntimeBroker.exe
+PID          : 16696
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.06270199964010703
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 199
+Process Name : msedgewebview2.exe
+PID          : 16888
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.026129880562647242
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 200
+Process Name : svchost.exe
+PID          : 17156
+No Of Threads: 18
+CPU Percent  : 0.0
+Ram Percent  : 0.1065108328510881
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 201
+Process Name : MoNotificationUx.exe
+PID          : 17256
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.0560966766725977
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 202
+Process Name : BraveCrashHandler.exe
+PID          : 17352
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.01100077685397695
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 203
+Process Name : nvsphelper64.exe
+PID          : 17376
+No Of Threads: 6
+CPU Percent  : 0.6
+Ram Percent  : 0.02792691695821963
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 204
+Process Name : msedgewebview2.exe
+PID          : 17468
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.03215238091537634
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 205
+Process Name : msedgewebview2.exe
+PID          : 17516
+No Of Threads: 22
+CPU Percent  : 0.0
+Ram Percent  : 0.029942511834334617
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 206
+Process Name : RuntimeBroker.exe
+PID          : 17664
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.021491583920021196
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 207
+Process Name : msedge.exe
+PID          : 17844
+No Of Threads: 28
+CPU Percent  : 0.0
+Ram Percent  : 0.32293229713948235
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 208
+Process Name : WmiPrvSE.exe
+PID          : 17908
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.025328499467324416
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 209
+Process Name : RuntimeBroker.exe
+PID          : 17988
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.12110568249620983
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 210
+Process Name : msedge.exe
+PID          : 18064
+No Of Threads: 14
+CPU Percent  : 0.0
+Ram Percent  : 0.7496555882610784
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 211
+Process Name : svchost.exe
+PID          : 18160
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.0360135807382954
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 212
+Process Name : SecurityHealthService.exe
+PID          : 18236
+No Of Threads: 13
+CPU Percent  : 0.0
+Ram Percent  : 0.09830274769293311
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 213
+Process Name : NortonUI.exe
+PID          : 18488
+No Of Threads: 54
+CPU Percent  : 0.0
+Ram Percent  : 0.4272332609095287
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 214
+Process Name : MSI.TerminalServer.exe
+PID          : 18520
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.02928683639270685
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 215
+Process Name : ctfmon.exe
+PID          : 18548
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.1132132929210608
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 216
+Process Name : svchost.exe
+PID          : 18660
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.025935606357720496
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 217
+Process Name : msedge.exe
+PID          : 18780
+No Of Threads: 10
+CPU Percent  : 0.3
+Ram Percent  : 0.14555994804136388
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 218
+Process Name : svchost.exe
+PID          : 18956
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.0748927059992603
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 219
+Process Name : msedgewebview2.exe
+PID          : 19296
+No Of Threads: 31
+CPU Percent  : 0.0
+Ram Percent  : 0.07996811960297152
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 220
+Process Name : msedgewebview2.exe
+PID          : 19340
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.028169759714378063
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 221
+Process Name : Widgets.exe
+PID          : 19508
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.24512547806632085
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 222
+Process Name : svchost.exe
+PID          : 19700
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.010660796995355147
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 223
+Process Name : chrome.exe
+PID          : 19932
+No Of Threads: 17
+CPU Percent  : 2.5
+Ram Percent  : 0.5216019559526952
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 224
+Process Name : NortonUI.exe
+PID          : 20124
+No Of Threads: 17
+CPU Percent  : 0.0
+Ram Percent  : 0.04329886342304835
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 225
+Process Name : msedgewebview2.exe
+PID          : 20216
+No Of Threads: 51
+CPU Percent  : 0.0
+Ram Percent  : 0.07343564946230971
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 226
+Process Name : svchost.exe
+PID          : 20288
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.027781211304524576
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 227
+Process Name : ApplicationFrameHost.exe
+PID          : 20368
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.11396610546515193
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 228
+Process Name : pet.exe
+PID          : 20388
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.021734426676179627
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 229
+Process Name : msedge.exe
+PID          : 20536
+No Of Threads: 30
+CPU Percent  : 0.0
+Ram Percent  : 1.1329585945815468
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 230
+Process Name : Code.exe
+PID          : 20720
+No Of Threads: 26
+CPU Percent  : 0.0
+Ram Percent  : 1.7586915243749774
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 231
+Process Name : msedgewebview2.exe
+PID          : 20788
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.01214213780792158
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 232
+Process Name : svchost.exe
+PID          : 20820
+No Of Threads: 12
+CPU Percent  : 0.0
+Ram Percent  : 0.1280024167711093
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 233
+Process Name : svchost.exe
+PID          : 20836
+No Of Threads: 8
+CPU Percent  : 1.9
+Ram Percent  : 0.2185341962669726
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 234
+Process Name : Code.exe
+PID          : 20928
+No Of Threads: 28
+CPU Percent  : 12.9
+Ram Percent  : 2.77518273310294
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 235
+Process Name : RtkUWP.exe
+PID          : 21120
+No Of Threads: 16
+CPU Percent  : 0.0
+Ram Percent  : 0.21005898407704332
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 236
+Process Name : msedgewebview2.exe
+PID          : 21224
+No Of Threads: 22
+CPU Percent  : 0.0
+Ram Percent  : 0.2426970505047365
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 237
+Process Name : ms-teams.exe
+PID          : 21304
+No Of Threads: 62
+CPU Percent  : 0.0
+Ram Percent  : 0.21770853089603392
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 238
+Process Name : MpDefenderCoreService.exe
+PID          : 21360
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.10160540917668777
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 239
+Process Name : RuntimeBroker.exe
+PID          : 21480
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.030743892929657436
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 240
+Process Name : MsMpEng.exe
+PID          : 21624
+No Of Threads: 70
+CPU Percent  : 17.0
+Ram Percent  : 1.2038686793798088
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 241
+Process Name : msedgewebview2.exe
+PID          : 21724
+No Of Threads: 22
+CPU Percent  : 0.3
+Ram Percent  : 0.18966019255973507
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 242
+Process Name : dllhost.exe
+PID          : 21888
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.025838469255257117
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 243
+Process Name : chrome.exe
+PID          : 21928
+No Of Threads: 36
+CPU Percent  : 0.5
+Ram Percent  : 0.850192489310669
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 244
+Process Name : svchost.exe
+PID          : 22056
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.019475989043906215
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 245
+Process Name : Code.exe
+PID          : 22220
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.3232722769981041
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 246
+Process Name : chrome.exe
+PID          : 22260
+No Of Threads: 22
+CPU Percent  : 0.0
+Ram Percent  : 0.48187288104517584
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 247
+Process Name : OmApSvcBroker.exe
+PID          : 22324
+No Of Threads: 23
+CPU Percent  : 0.0
+Ram Percent  : 0.0931787655379902
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 248
+Process Name : svchost.exe
+PID          : 22432
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.016780434450547624
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 249
+Process Name : chrome.exe
+PID          : 22516
+No Of Threads: 28
+CPU Percent  : 0.0
+Ram Percent  : 0.24655825032765558
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 250
+Process Name : msedgewebview2.exe
+PID          : 22540
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.017751805475181348
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 251
+Process Name : msedgewebview2.exe
+PID          : 22556
+No Of Threads: 23
+CPU Percent  : 0.0
+Ram Percent  : 0.07239142561082845
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 252
+Process Name : WmiApSrv.exe
+PID          : 22624
+No Of Threads: 3
+CPU Percent  : 0.5
+Ram Percent  : 0.049199942397698246
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 253
+Process Name : chrome.exe
+PID          : 22748
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.027951201233835477
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 254
+Process Name : svchost.exe
+PID          : 22852
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.010296532861117499
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 255
+Process Name : WhatsApp.Root.exe
+PID          : 22972
+No Of Threads: 37
+CPU Percent  : 0.0
+Ram Percent  : 1.2652107595854285
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 256
+Process Name : msedge.exe
+PID          : 22988
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.1380803911516842
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 257
+Process Name : msedge.exe
+PID          : 23204
+No Of Threads: 15
+CPU Percent  : 0.0
+Ram Percent  : 0.22521237206132946
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 258
+Process Name : msedgewebview2.exe
+PID          : 23484
+No Of Threads: 34
+CPU Percent  : 0.3
+Ram Percent  : 3.1226907171656557
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 259
+Process Name : chrome.exe
+PID          : 23584
+No Of Threads: 14
+CPU Percent  : 1.0
+Ram Percent  : 0.10182396765723035
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 260
+Process Name : ms-teamsupdate.exe
+PID          : 23652
+No Of Threads: 8
+CPU Percent  : 0.0
+Ram Percent  : 0.10660796995355147
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 261
+Process Name : backgroundTaskHost.exe
+PID          : 23752
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.1943956263048245
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 262
+Process Name : Code.exe
+PID          : 23892
+No Of Threads: 20
+CPU Percent  : 0.0
+Ram Percent  : 0.14398147012633408
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 263
+Process Name : msedgewebview2.exe
+PID          : 24032
+No Of Threads: 25
+CPU Percent  : 0.0
+Ram Percent  : 0.029869659007487084
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 264
+Process Name : gamingservices.exe
+PID          : 24092
+No Of Threads: 124
+CPU Percent  : 0.0
+Ram Percent  : 0.1168073657122056
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 265
+Process Name : OpenConsole.exe
+PID          : 24672
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.09803562066115883
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 266
+Process Name : RemoteMouseCore.exe
+PID          : 24756
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.04094328868831157
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 267
+Process Name : NVIDIA Overlay.exe
+PID          : 24852
+No Of Threads: 83
+CPU Percent  : 0.0
+Ram Percent  : 0.5743716868659223
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 268
+Process Name : powershell.exe
+PID          : 24884
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.17059703620129818
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 269
+Process Name : csrss.exe
+PID          : 25136
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.007746683921453968
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 270
+Process Name : chrome.exe
+PID          : 25352
+No Of Threads: 23
+CPU Percent  : 13.7
+Ram Percent  : 0.38272018370568817
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 271
+Process Name : MuseHub.exe
+PID          : 25376
+No Of Threads: 33
+CPU Percent  : 0.8
+Ram Percent  : 0.2665442091594945
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 272
+Process Name : conhost.exe
+PID          : 25992
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.014109164132804875
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 273
+Process Name : chrome.exe
+PID          : 25996
+No Of Threads: 36
+CPU Percent  : 0.3
+Ram Percent  : 0.7898946329565304
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 274
+Process Name : AppVShNotify.exe
+PID          : 26160
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.016489023143157505
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 275
+Process Name : Code.exe
+PID          : 26520
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.3456380948402957
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 276
+Process Name : dllhost.exe
+PID          : 26816
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.0757912241970465
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 277
+Process Name : svchost.exe
+PID          : 26824
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.08837047896605325
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 278
+Process Name : svchost.exe
+PID          : 26840
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.013890605652262288
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 279
+Process Name : Code.exe
+PID          : 26944
+No Of Threads: 27
+CPU Percent  : 0.0
+Ram Percent  : 0.20155948761149822
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 280
+Process Name : svchost.exe
+PID          : 27036
+No Of Threads: 18
+CPU Percent  : 0.0
+Ram Percent  : 0.21637289573716253
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 281
+Process Name : msedgewebview2.exe
+PID          : 27120
+No Of Threads: 61
+CPU Percent  : 0.0
+Ram Percent  : 0.2528235934365431
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 282
+Process Name : chrome.exe
+PID          : 27196
+No Of Threads: 22
+CPU Percent  : 0.0
+Ram Percent  : 0.3583630552629975
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 283
+Process Name : Code.exe
+PID          : 27392
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.35744025278959546
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 284
+Process Name : RuntimeBroker.exe
+PID          : 27432
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.052381182503373695
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 285
+Process Name : chrome.exe
+PID          : 27448
+No Of Threads: 13
+CPU Percent  : 0.0
+Ram Percent  : 0.2003695581063219
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 286
+Process Name : msedgewebview2.exe
+PID          : 27660
+No Of Threads: 22
+CPU Percent  : 0.0
+Ram Percent  : 0.07452844186502265
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 287
+Process Name : WindowsTerminal.exe
+PID          : 27704
+No Of Threads: 10
+CPU Percent  : 0.2
+Ram Percent  : 0.6532955826174126
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 288
+Process Name : msedge.exe
+PID          : 27744
+No Of Threads: 73
+CPU Percent  : 0.2
+Ram Percent  : 1.0860656583673536
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 289
+Process Name : Code.exe
+PID          : 27964
+No Of Threads: 7
+CPU Percent  : 0.0
+Ram Percent  : 0.04953992225632004
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 290
+Process Name : chrome.exe
+PID          : 28100
+No Of Threads: 30
+CPU Percent  : 28.8
+Ram Percent  : 0.4256062144432672
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 291
+Process Name : msedgewebview2.exe
+PID          : 28132
+No Of Threads: 24
+CPU Percent  : 0.0
+Ram Percent  : 0.16816860863971386
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 292
+Process Name : NVIDIA Overlay.exe
+PID          : 28440
+No Of Threads: 31
+CPU Percent  : 0.0
+Ram Percent  : 0.16435597736802648
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 293
+Process Name : svchost.exe
+PID          : 28628
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.05415393462333024
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 294
+Process Name : RuntimeBroker.exe
+PID          : 28972
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.049855617839326
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 295
+Process Name : chrome.exe
+PID          : 29444
+No Of Threads: 74
+CPU Percent  : 100.0
+Ram Percent  : 3.954135745700894
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 296
+Process Name : RtkAudUService64.exe
+PID          : 29596
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.0683602358585985
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 297
+Process Name : SearchProtocolHost.exe
+PID          : 29720
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.10857499627843477
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 298
+Process Name : python.exe
+PID          : 29876
+No Of Threads: 4
+CPU Percent  : 67.9
+Ram Percent  : 0.1503925188889167
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 299
+Process Name : NVIDIA Overlay.exe
+PID          : 29880
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.04587299663832773
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 300
+Process Name : msedgewebview2.exe
+PID          : 29976
+No Of Threads: 14
+CPU Percent  : 0.0
+Ram Percent  : 0.04380883321098106
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 301
+Process Name : WebCompanion.exe
+PID          : 30072
+No Of Threads: 14
+CPU Percent  : 0.0
+Ram Percent  : 0.14080023002065864
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 302
+Process Name : UserOOBEBroker.exe
+PID          : 30080
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.02328862031559359
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 303
+Process Name : svchost.exe
+PID          : 30264
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.021782995227411315
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 304
+Process Name : OfficeClickToRun.exe
+PID          : 30272
+No Of Threads: 21
+CPU Percent  : 0.0
+Ram Percent  : 0.12418978549942192
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 305
+Process Name : NVIDIA Overlay.exe
+PID          : 30300
+No Of Threads: 19
+CPU Percent  : 0.0
+Ram Percent  : 0.223269630012062
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 306
+Process Name : svchost.exe
+PID          : 30496
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.015954769079608955
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 307
+Process Name : WmiPrvSE.exe
+PID          : 30656
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.08300365405495191
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 308
+Process Name : AppleMobileDeviceLauncher.exe
+PID          : 30776
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.03035534451980395
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 309
+Process Name : nvcontainer.exe
+PID          : 30924
+No Of Threads: 20
+CPU Percent  : 0.0
+Ram Percent  : 0.08771480352442548
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 310
+Process Name : chrome.exe
+PID          : 30960
+No Of Threads: 31
+CPU Percent  : 0.0
+Ram Percent  : 1.5781136508955678
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 311
+Process Name : msedge.exe
+PID          : 30968
+No Of Threads: 9
+CPU Percent  : 0.0
+Ram Percent  : 0.12615681182430522
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 312
+Process Name : nahimicNotifSys.exe
+PID          : 31312
+No Of Threads: 11
+CPU Percent  : 0.0
+Ram Percent  : 0.09417442083823976
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 313
+Process Name : msedgewebview2.exe
+PID          : 31340
+No Of Threads: 20
+CPU Percent  : 0.0
+Ram Percent  : 0.10272248585501656
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 314
+Process Name : NahimicSvc32.exe
+PID          : 31448
+No Of Threads: 13
+CPU Percent  : 0.0
+Ram Percent  : 0.02214725936164896
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 315
+Process Name : svchost.exe
+PID          : 31576
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.07088580052264618
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 316
+Process Name : Code.exe
+PID          : 31916
+No Of Threads: 27
+CPU Percent  : 0.0
+Ram Percent  : 0.16700296341015342
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 317
+Process Name : svchost.exe
+PID          : 32140
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.07457701041625434
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 318
+Process Name : svchost.exe
+PID          : 32220
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.02957824770009697
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 319
+Process Name : chrome.exe
+PID          : 32224
+No Of Threads: 36
+CPU Percent  : 0.0
+Ram Percent  : 0.8751081560925241
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 320
+Process Name : svchost.exe
+PID          : 32300
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.04004477049052537
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 321
+Process Name : CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.tmp
+PID          : 32404
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.049491353705088365
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 322
+Process Name : uTorrent.exe
+PID          : 32440
+No Of Threads: 69
+CPU Percent  : 0.2
+Ram Percent  : 0.2022880158799735
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 323
+Process Name : smartscreen.exe
+PID          : 32468
+No Of Threads: 5
+CPU Percent  : 0.0
+Ram Percent  : 0.07979812967366062
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 324
+Process Name : igfxEMN.exe
+PID          : 32484
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.03783490140948364
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 325
+Process Name : OneDrive.exe
+PID          : 32672
+No Of Threads: 37
+CPU Percent  : 0.0
+Ram Percent  : 0.4710663783961256
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 326
+Process Name : Code.exe
+PID          : 32744
+No Of Threads: 19
+CPU Percent  : 0.0
+Ram Percent  : 0.5658236218491456
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 327
+Process Name : msedgewebview2.exe
+PID          : 32884
+No Of Threads: 10
+CPU Percent  : 0.0
+Ram Percent  : 0.014886260952511856
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 328
+Process Name : msedgewebview2.exe
+PID          : 33136
+No Of Threads: 54
+CPU Percent  : 0.9
+Ram Percent  : 0.40052055773210116
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 329
+Process Name : RuntimeBroker.exe
+PID          : 33444
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.02654271324811657
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 330
+Process Name : cmd.exe
+PID          : 33488
+No Of Threads: 1
+CPU Percent  : 0.0
+Ram Percent  : 0.03598929646267956
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 331
+Process Name : SecurityHealthSystray.exe
+PID          : 33548
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.0347750826818874
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 332
+Process Name : ShellExperienceHost.exe
+PID          : 33816
+No Of Threads: 20
+CPU Percent  : 0.0
+Ram Percent  : 0.29655957382067666
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 333
+Process Name : svchost.exe
+PID          : 33904
+No Of Threads: 4
+CPU Percent  : 0.0
+Ram Percent  : 0.04172038550801855
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 334
+Process Name : FileCoAuth.exe
+PID          : 34080
+No Of Threads: 3
+CPU Percent  : 0.0
+Ram Percent  : 0.0869862752559502
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 335
+Process Name : SearchIndexer.exe
+PID          : 34096
+No Of Threads: 15
+CPU Percent  : 4.9
+Ram Percent  : 0.1567064305490359
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 336
+Process Name : MidiSrv.exe
+PID          : 34260
+No Of Threads: 2
+CPU Percent  : 0.0
+Ram Percent  : 0.01930599911459531
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 337
+Process Name : chrome.exe
+PID          : 34328
+No Of Threads: 28
+CPU Percent  : 0.5
+Ram Percent  : 0.5094112495935419
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 338
+Process Name : svchost.exe
+PID          : 34548
+No Of Threads: 6
+CPU Percent  : 0.0
+Ram Percent  : 0.019548841870753744
+TimeStamp : {'2026-02-12_03-45-10'}
+Opened File - 339
